@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my GitHub page where I store my code. I am physics graduate student at UC Santa Cruz. More info about me can be found at [zch.info](www.zch.info).
+
+### Projects
 
 Currently, I am splitting my time between three projects:
 
@@ -8,6 +10,7 @@ Currently, I am splitting my time between three projects:
 - Find star forming clumps in hydrodynamic simulations.
 - Help with DES Y6 image simulation for shear pipeline.
 
+### Statistics
 ![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
