@@ -4,8 +4,8 @@ Welcome to my GitHub page where I store my code. I am physics graduate student a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchvsre)](https://github.com/zchvsre/github-readme-stats)
 
-<!-- ![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
+![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 <!--
