@@ -11,8 +11,11 @@ Currently, I am splitting my time between three projects:
 - Help with DES Y6 image simulation for shear pipeline.
 
 ### Statistics
-![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 <!--
