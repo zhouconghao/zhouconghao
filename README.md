@@ -5,7 +5,7 @@ Welcome to my GitHub page where I store my code. I am physics graduate student a
 Currently, I am splitting my time between three projects:
 
 - Develop a method for measuring cluster selection effect bias in large optical surveys.
-- Finding star forming clumps in hydrodynamic simulations.
+- Find star forming clumps in hydrodynamic simulations.
 - Help with DES Y6 image simulation for shear pipeline.
 
 ![](https://raw.githubusercontent.com/zchvsre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
