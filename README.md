@@ -1,3 +1,6 @@
+<p align="center">
+
+
 ## Hi there 👋
 
 Welcome to my GitHub page where I store my code. I am physics graduate student at UC Santa Cruz. More info about me can be found at [zch.info](www.zch.info).
@@ -120,3 +123,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ </p>
