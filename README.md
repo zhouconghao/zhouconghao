@@ -10,6 +10,9 @@ Currently, I am splitting my time between three projects:
 - Find star forming clumps in hydrodynamic simulations.
 - Help with DES Y6 image simulation for shear pipeline.
 
+### Music
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
+
 ### Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
@@ -101,7 +104,6 @@ Python                   3 repos             ██░░░░░░░░░�
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
 
 
 <!--
