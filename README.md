@@ -11,12 +11,14 @@ Currently, I am splitting my time between three projects:
 - Help with DES Y6 image simulation for shear pipeline.
 
 ### Statistics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao)](https://git.io/streak-stats)
+
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 
 <!--
 **zchvsre/zchvsre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
