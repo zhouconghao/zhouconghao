@@ -23,6 +23,9 @@ Currently, I am splitting my time between three projects:
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
+
+
 <!--
 **zchvsre/zchvsre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
