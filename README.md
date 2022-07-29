@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi! It's Zhou here! 👋 </h1>
+<h1> Hi! Zhou here! 👋 </h1>
 
 
 Welcome to my GitHub page where I store my code! 
