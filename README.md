@@ -16,7 +16,7 @@ Currently, I am splitting my time between four projects:
  
  Help with DES Y6 image simulation for shear pipeline.
  
- Finishing up a publication based on my undergraduate thesis.
+ Finish up a publication based on my undergraduate thesis.
 ```
 
 ## Music
