@@ -6,7 +6,7 @@ Welcome to my GitHub page where I store my code!
 
 I am a physics graduate student at UC Santa Cruz. More info about me can be found at [zch.info](www.zch.info).
 
-### Projects
+## Projects
 
 Currently, I am splitting my time between four projects:
 ```
@@ -19,11 +19,11 @@ Currently, I am splitting my time between four projects:
  Finishing up a publication based on my undergraduate thesis.
 ```
 
-### Music
+## Music
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
 
 
-### Statistics
+## Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
 
