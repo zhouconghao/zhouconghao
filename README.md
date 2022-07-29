@@ -1,20 +1,25 @@
-<p align="center">
+<div align="center">
+<h2> Hi there 👋 </h2>
 
-
-## Hi there 👋
 
 Welcome to my GitHub page where I store my code. I am physics graduate student at UC Santa Cruz. More info about me can be found at [zch.info](www.zch.info).
 
 ### Projects
 
-Currently, I am splitting my time between three projects:
-
-- Develop a method for measuring cluster selection effect bias in large optical surveys.
-- Find star forming clumps in hydrodynamic simulations.
-- Help with DES Y6 image simulation for shear pipeline.
+Currently, I am splitting my time between four projects:
+```
+ Develop a method for measuring cluster selection effect bias in large optical surveys.
+ 
+ Find star forming clumps in hydrodynamic simulations.
+ 
+ Help with DES Y6 image simulation for shear pipeline.
+ 
+ Finishing up a publication based on my undergraduate thesis.
+```
 
 ### Music
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
+
 
 ### Statistics
 
@@ -110,6 +115,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
+</div>
 
 
 <!--
