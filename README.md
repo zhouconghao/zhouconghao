@@ -16,7 +16,7 @@ Currently, I am splitting my time between four projects:
  
  Help with DES Y6 image simulation for shear pipeline.
  
- Finish up a publication based on my undergraduate thesis.
+ Finish up a paper on the intrinsic alignment in galaxy clusters.
 ```
 
 ## Music
