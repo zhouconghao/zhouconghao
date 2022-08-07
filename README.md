@@ -30,17 +30,17 @@ Currently, I am splitting my time between four projects:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 211 Contributions in the Year 2022
+> 🏆 212 Contributions in the Year 2022
  > 
-> 📦 371.6 kB Used in GitHub's Storage 
+> 📦 371.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,22 +51,22 @@ Currently, I am splitting my time between four projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    71 commits     ███████░░░░░░░░░░░░░░░░░░   29.22% 
-🌆 Daytime    89 commits     █████████░░░░░░░░░░░░░░░░   36.63% 
-🌃 Evening    78 commits     ████████░░░░░░░░░░░░░░░░░   32.1% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
+🌞 Morning    72 commits     ███████░░░░░░░░░░░░░░░░░░   29.51% 
+🌆 Daytime    89 commits     █████████░░░░░░░░░░░░░░░░   36.48% 
+🌃 Evening    78 commits     ████████░░░░░░░░░░░░░░░░░   31.97% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   23.05% 
-Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Wednesday    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Thursday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
-Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Sunday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05%
+Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Wednesday    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Thursday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Sunday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39%
 
 ```
 
@@ -113,8 +113,12 @@ Python                   3 repos             ██░░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 07/08/2022 15:57:13 UTC
+![Chart not found](https://raw.githubusercontent.com/zhouconghao/zhouconghao/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/08/2022 18:48:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
