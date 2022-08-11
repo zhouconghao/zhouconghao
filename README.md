@@ -16,7 +16,7 @@ Currently, I am splitting my time between four projects:
  
  Find star forming clumps in hydrodynamic simulations.
  
- Help with DES Y6 image simulation for shear pipeline.
+ Help simulate the Dark Energy Survey image for Y6 shear pipeline.
  
  Finish up a paper on the intrinsic alignment in galaxy clusters.
 ```
