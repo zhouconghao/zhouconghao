@@ -32,7 +32,7 @@ Currently, I am splitting my time between four projects:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602%20Thousand%20lines%20of%20code-blue)
 
@@ -77,20 +77,20 @@ Sunday       46 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    24 hrs 36 mins      █████████████████████████   99.7% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other                    23 hrs 10 mins      █████████████████████████   99.77% 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-Browser                  24 hrs 36 mins      █████████████████████████   99.7% 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Browser                  23 hrs 10 mins      █████████████████████████   99.77% 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🐱‍💻 Projects: 
-Cluster-Probability-Deriv24 hrs 36 mins      █████████████████████████   99.7% 
-spt_selection            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Cluster-Probability-Deriv23 hrs 10 mins      █████████████████████████   99.77% 
+spt_selection            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 💻 Operating System: 
-Mac                      24 hrs 36 mins      █████████████████████████   99.7% 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Mac                      23 hrs 10 mins      █████████████████████████   99.77% 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 ```
 
@@ -106,12 +106,8 @@ CSS                      2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/zhouconghao/zhouconghao/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/08/2022 18:47:54 UTC
+ Last Updated on 22/08/2022 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
