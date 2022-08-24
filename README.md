@@ -30,9 +30,9 @@ Currently, I am splitting my time between four projects:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602%20Thousand%20lines%20of%20code-blue)
 
@@ -77,21 +77,21 @@ Sunday       46 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    28 hrs 2 mins       █████████████████████████   99.56% 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Other                    33 hrs 48 mins      █████████████████████████   99.63% 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-Browser                  28 hrs 2 mins       █████████████████████████   99.56% 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Browser                  33 hrs 48 mins      █████████████████████████   99.63% 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🐱‍💻 Projects: 
-Cluster-Probability-Deriv22 hrs 3 mins       ███████████████████░░░░░░   78.3% 
-sa                       6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+Cluster-Probability-Deriv18 hrs 48 mins      █████████████░░░░░░░░░░░░   55.42% 
+sa                       15 hrs 7 mins       ███████████░░░░░░░░░░░░░░   44.56% 
 spt_selection            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Mac                      28 hrs 2 mins       █████████████████████████   99.56% 
-Linux                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Mac                      33 hrs 48 mins      █████████████████████████   99.63% 
+Linux                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 ```
 
@@ -112,7 +112,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhouconghao/zhouconghao/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 18:48:19 UTC
+ Last Updated on 24/08/2022 18:55:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
