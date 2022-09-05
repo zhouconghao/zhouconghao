@@ -30,7 +30,7 @@ Currently, I am splitting my time between four projects:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -48,6 +48,58 @@ Currently, I am splitting my time between four projects:
  > 
 > 🔑 19 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    82 commits     ██████░░░░░░░░░░░░░░░░░░░   27.15% 
+🌆 Daytime    108 commits    █████████░░░░░░░░░░░░░░░░   35.76% 
+🌃 Evening    107 commits    ████████░░░░░░░░░░░░░░░░░   35.43% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.17% 
+Tuesday      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+Sunday       49 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   12 hrs 34 mins      ██████████████████░░░░░░░   72.99% 
+Bash                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Fortran                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+
+🔥 Editors: 
+VS Code                  17 hrs 5 mins       ████████████████████████░   99.13% 
+Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+
+🐱‍💻 Projects: 
+shape-measurement-tutoria5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   31.34% 
+clump                    5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.94% 
+y3clshear                3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49% 
+sa                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
+image_simulation         57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.57%
+
+💻 Operating System: 
+Linux                    17 hrs 13 mins      █████████████████████████   99.97% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -65,7 +117,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhouconghao/zhouconghao/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:47:27 UTC
+ Last Updated on 05/09/2022 18:52:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
