@@ -14,7 +14,7 @@ Currently, I am splitting my time between four projects:
 ```
  Develop a method for improving optical cluster cosmology with multi-wavelength data.
  
- Find star forming clumps in hydrodynamic simulations.
+ Find star-forming clumps in hydrodynamic simulations.
  
  Help simulate the Dark Energy Survey image for Y6 shear pipeline.
  
