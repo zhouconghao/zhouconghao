@@ -30,15 +30,13 @@ Currently, I am splitting my time between four projects:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-605%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 307 Contributions in the Year 2022
+> 🏆 311 Contributions in the Year 2022
  > 
 > 📦 373.4 kB Used in GitHub's Storage 
  > 
@@ -46,27 +44,27 @@ Currently, I am splitting my time between four projects:
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌆 Daytime    119 commits    █████████░░░░░░░░░░░░░░░░   35.95% 
-🌃 Evening    119 commits    █████████░░░░░░░░░░░░░░░░   35.95% 
-🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+🌞 Morning    83 commits     ██████░░░░░░░░░░░░░░░░░░░   24.92% 
+🌆 Daytime    121 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
+🌃 Evening    119 commits    █████████░░░░░░░░░░░░░░░░   35.74% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-Tuesday      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-Wednesday    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-Sunday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
+Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.92% 
+Tuesday      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
+Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+Sunday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02%
 
 ```
 
@@ -103,21 +101,17 @@ Mac                      4 mins              ░░░░░░░░░░░�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         12 repos            █████████░░░░░░░░░░░░░░░░   36.36% 
-TeX                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Jupyter Notebook         12 repos            ████████░░░░░░░░░░░░░░░░░   35.29% 
+TeX                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/zhouconghao/zhouconghao/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/09/2022 18:56:10 UTC
+ Last Updated on 22/09/2022 00:21:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://raw.githubusercontent.com/zhouconghao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
