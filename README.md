@@ -28,3 +28,5 @@ Currently, I am splitting my time between four projects:
 ## Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
+
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
