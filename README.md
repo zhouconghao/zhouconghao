@@ -34,7 +34,7 @@ Currently, I am splitting my time between four projects:
 ```text
 From: 26 April 2019 - To: 29 September 2022
 
-Total Time: 378 hrs 30 mins
+Total Time: 178 hrs 46 mins
 
 Other          199 hrs 43 mins >>>>>>>>>>>>>------------   52.77 %
 ```
