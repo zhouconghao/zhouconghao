@@ -13,12 +13,10 @@ More info about me can be found at [zch.info](www.zch.info).
 Currently, I am splitting my time between four projects:
 ```
  Develop a method for improving optical cluster cosmology with multi-wavelength data.
+ Study the stellar-mass-halo-mass relation in Illustris TNG.
+ Measure the shear response clustering bias in cosmic shear. 
  
- Find star-forming clumps in hydrodynamic simulations.
  
- Help simulate the Dark Energy Survey image for Y6 shear pipeline.
- 
- Finish up a paper on the intrinsic alignment in galaxy clusters.
 ```
 
 ## Music
