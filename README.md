@@ -17,8 +17,6 @@ Currently, I am splitting my time between four projects:
  Study the stellar-mass-halo-mass relation in Illustris TNG.
 
  Measure the shear response clustering bias in cosmic shear. 
- 
- 
 ```
 
 ## Music
