@@ -13,7 +13,9 @@ More info about me can be found at [zch.info](www.zch.info).
 Currently, I am splitting my time between four projects:
 ```
  Develop a method for improving optical cluster cosmology with multi-wavelength data.
+
  Study the stellar-mass-halo-mass relation in Illustris TNG.
+
  Measure the shear response clustering bias in cosmic shear. 
  
  
