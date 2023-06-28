@@ -10,7 +10,7 @@ More info about me can be found at [zch.info](www.zch.info).
 
 ## Projects
 
-Currently, I am splitting my time between four projects:
+Currently, I am splitting my time between three projects:
 ```
  Develop a method for improving optical cluster cosmology with multi-wavelength data.
 
