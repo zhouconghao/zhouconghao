@@ -21,3 +21,10 @@ Currently, I am splitting my time between these projects:
  Validate a new cluster cosmology pipeline that can accurately model projection with TNG. 
 ```
 
+## Music
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
+
+
+## Statistics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
