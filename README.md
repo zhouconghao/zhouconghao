@@ -14,17 +14,7 @@ Currently, I am splitting my time between these projects:
 ```
  Develop a method for improving optical cluster cosmology with multi-wavelength data.
 
- Study the stellar-mass-halo-mass relation in Illustris TNG with a novel selection method.
+ Study the spatial distribution of stellar particles with IllustrisTNG.
 
  Measure the shear response clustering bias in cosmic shear.
-
- Validate a new cluster cosmology pipeline that can accurately model projection with TNG. 
 ```
-
-## Music
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=zchvsre)
-
-
-## Statistics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouconghao&theme=highcontrast)](https://git.io/streak-stats)
